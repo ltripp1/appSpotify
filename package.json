@@ -1,0 +1,21 @@
+{
+  "name": "lab10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "antd": "^5.28.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "vite": "^7.2.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
